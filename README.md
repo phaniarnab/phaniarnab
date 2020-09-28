@@ -1,6 +1,6 @@
 ### About me
 
-My name is Arnab Phani. I am a PhD student in Graz University of Technology. Before starting my PhD I was a Senior Software Engineer in Teradata Labs, India.  
+Hi there 👋. My name is Arnab Phani. I am a PhD student in Graz University of Technology. Before starting my PhD I was a Senior Software Engineer in Teradata Labs, India.  
 I am currently working on building a ML system for the end-to-end data science lifecycle, [Apache SystemDS](https://github.com/apache/systemds). Find more about SystemDS [here](http://systemds.apache.org/).
 
 ------------
