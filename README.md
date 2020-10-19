@@ -1,6 +1,6 @@
 ### About me
 
-Hi there 👋. I am a PhD student in Graz University of Technology. I am also a PMC member of Apache SystemDS. 
+Hi there 👋. I am a PhD student in Graz University of Technology. I am also a PMC member of Apache SystemDS.  
 Before starting my PhD I was a Senior Software Engineer in Teradata Labs, India.  
 I am currently working on helping building a ML system for the end-to-end data science lifecycle, [Apache SystemDS](https://github.com/apache/systemds). Find more about SystemDS [here](http://systemds.apache.org/).
 
