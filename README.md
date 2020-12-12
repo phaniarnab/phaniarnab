@@ -22,5 +22,5 @@ Reach me at phaniarnab@gmail.com, arnab.phani@tugraz.at
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=phaniarnab&show_icons=true" alt="phaniarnab" /></p>
 
 <p align="left">
-Connect with me:   <a href="https://twitter.com/arnabphani" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/de/9/9f/Twitter_bird_logo_2012.svg" alt="arnabphani" height="20" width="30" /></a> <a href="https://linkedin.com/in/arnab-phani-43b30363" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="arnab-phani-43b30363" height="20" width="30" /></a>
+Connect with me:   <a href="https://twitter.com/arnabphani" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/de/9/9f/Twitter_bird_logo_2012.svg" alt="arnabphani" height="20" width="30" /></a> <a href="https://linkedin.com/in/arnab-phani-43b30363" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Linkedin.svg" alt="arnab-phani-43b30363" height="20" width="30" /></a>
 </p>
