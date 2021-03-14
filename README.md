@@ -15,6 +15,7 @@ My publications: [Google Scholar](https://scholar.google.com/citations?user=F0Sq
 
 ### Contact
 
+My homepage: https://phaniarnab.github.io/
 Reach me at phaniarnab@gmail.com, arnab.phani@tugraz.at
 
 ------------
