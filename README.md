@@ -1,15 +1,15 @@
 ### About me
 
-Hi there 👋. I am a PhD student in Graz University of Technology. I am also a PMC member of Apache SystemDS.  
+Hi there 👋. I am a Ph.D. student at Graz University of Technology. I am also a PMC member of Apache SystemDS.  
 Before starting my PhD, I was a Senior Software Engineer in Teradata Labs, India.  
-I am currently working on helping building a ML system for the end-to-end data science lifecycle, [Apache SystemDS](https://github.com/apache/systemds). Find more about SystemDS [here](http://systemds.apache.org/).
+I am currently working on helping to build a ML system, [Apache SystemDS](https://github.com/apache/systemds) for the end-to-end data science lifecycle. Find more about SystemDS [here](http://systemds.apache.org/).
 
 ------------
 
 ### Research
 
-My research interests are *ML System internals, large-scale data analytics, transaction processing*.  
-My publications: [Google Scholar](https://scholar.google.com/citations?user=F0SqEY8AAAAJ&hl=en), [DBLP](https://dblp.org/pid/233/8160.html)
+My research interest lies broadly in the intersection of Data Management, Machine Learning and Systems, an emerging area referred to as *Systems for ML* or *ML Systems*. Currently, I am exploring different aspects of the ML system internals to *address high computational redundancy across heterogeneous runtimes*.</br>
+Publications: [Google Scholar](https://scholar.google.com/citations?user=F0SqEY8AAAAJ&hl=en), [DBLP](https://dblp.org/pid/233/8160.html)
 
 ------------
 
