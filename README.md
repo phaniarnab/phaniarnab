@@ -18,10 +18,10 @@ Publications: [Google Scholar](https://scholar.google.com/citations?user=F0SqEY8
 My homepage: https://phaniarnab.github.io/</br>
 Reach me at phaniarnab@gmail.com, arnab.phani@tu-berlin.de
 
-------------
-
+<!---
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=phaniarnab&show_icons=true" alt="phaniarnab" /></p>
+-->
 
 <p align="left">
-Connect with me:   <a href="https://twitter.com/arnabphani" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/de/9/9f/Twitter_bird_logo_2012.svg" alt="arnabphani" height="20" width="30" /></a> <a href="https://linkedin.com/in/arnab-phani-43b30363" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Linkedin.svg" alt="arnab-phani-43b30363" height="20" width="20" /></a>
+Connect with me:   <a href="https://twitter.com/arnabphani" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Twitter_X.png" alt="arnabphani" height="20" width="30" /></a> <a href="https://linkedin.com/in/arnab-phani-43b30363" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Linkedin.svg" alt="arnab-phani-43b30363" height="20" width="20" /></a>
 </p>
